@@ -14,7 +14,7 @@ Additonal requirements:
 
 ## Techs
 - Python 3.6
-- Django 2
+- Django 3
 - PostgreSQL
 - HTML/CSS/Bootstrap
 
